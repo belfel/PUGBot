@@ -1,0 +1,26 @@
+{
+  "name": "pugbot",
+  "version": "1.0.0",
+  "description": "PUG Bot for Dirty Bomb PUG Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belfel/PUGbot.git"
+  },
+  "author": "belfel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/belfel/PUGbot/issues"
+  },
+  "homepage": "https://github.com/belfel/PUGbot#readme",
+  "dependencies": {
+    "better-sqlite3": "^5.4.3",
+    "discord.io": "^2.5.3",
+    "discord.js": "^11.5.1",
+    "node-gyp": "^6.1.0",
+    "winston": "^3.3.3"
+  }
+}
